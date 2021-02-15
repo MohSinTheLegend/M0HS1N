@@ -81,7 +81,7 @@ c2 = "\033[0;97m"
 c3 = "\033[1;31m"
 #MyLogo
 def logo():
-    os.system
+    os.system('
 
 -----------------------------------------------\n\n➣ Author : Tech Abm\n➣ Github : https://github.com/Tech-abm\n➣ Fb Page : https://m.facebook.com/Techabm\n\n-----------------------------------------------" | lolcat')
 def tech_abm():
